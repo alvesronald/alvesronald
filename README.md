@@ -1,13 +1,17 @@
-### Hey, I'm Ronald! 👋
+# Ronald Alves
+### Developer
 
-🤓 Senior Mobile Developer at @Invillia <br>
-🇧🇷 Living in Brazil, Juiz de Fora - MG
+#### Focused on mobile development and the React/React Native ecosystem
 
 
-### What I'm working on 👨‍💻
 
-👨‍💻 Working in the BanQi App - [BanQi](https://banqi.com.br/) <br>
 
-### Find me elsewhere 🌎
+  <a aligh="left" href="https://www.linkedin.com/in/ronalddsi/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-💼 [LinkedIn](https://www.linkedin.com/in/ronalddsi/) <br>
+⚐ Based in Juiz de Fora, Brazil
+
+
+
+
+
+
