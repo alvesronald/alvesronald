@@ -1,7 +1,6 @@
 # Ronald Alves
 ### Developer
 
-#### Focused on mobile development and the React/React Native ecosystem
 
 ⚐ Based in Juiz de Fora, Brazil
 
